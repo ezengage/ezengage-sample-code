@@ -9,8 +9,6 @@
 <script type="text/javascript">
   /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
   var ezengage_app_domain = 'demo'; // required: replace example with your ezengage app domain
-  //var ezengage_token_cb = 'http://demo.ezengage.com/php/token.php'; //required: replace it with your actuall token url
-  //var ezengage_token_cb = 'http://demo.ezengage.com/php/token.php'; //required: replace it with your actuall token url
   var ezengage_token_cb = 'http://localhost/php/token.php'; //required: replace it with your actuall token url
 
   // var ezengage_widget_style = 'normal';
